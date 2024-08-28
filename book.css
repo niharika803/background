@@ -1,0 +1,19 @@
+ @import url('https://fonts.googleapis.com/css2?family=Kalnia+Glaze:wght@100..700&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Grey+Qo&family=Kalnia+Glaze:wght@100..700&display=swap');
+body{
+    background-image: url("./backgroung2.jpg");
+    background-size: contain;
+}
+
+
+header{
+    font-size: 50px;
+    text-align: center;
+    font-family: Kalnia Glaze;
+    font-weight: bold;
+    text-shadow: 10px 10px violet;
+}
+p{
+    font-size:45px ;
+    font-family: Grey Qo;
+}
